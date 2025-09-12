@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kd/hQU+3XKkp6xzDe/3/IFyf7OQ4NdoZ7c0So2CbWgs0UMmMosrplCRzdtejPQKLfj/50QzK9NEHvbVBzz2I/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.7\\microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512",
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",
+    "C:\\Users\\Aleksandra\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
