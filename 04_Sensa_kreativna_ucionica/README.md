@@ -16,7 +16,7 @@ It includes a gallery, user management system, admin panel, survey functionality
   - Registered users – administrators can view, add, edit, or delete website content (Username: `admin`, Password: `admin`)  
   - Registered users – regular users can view specific content (Username: `korisnik`, Password: `korisnik`)  
 - **Form validation** using regular expressions  
-- **Contact form** sending emails to the administrator using PHPMailer  
+- **Contact form** sending emails to the administrator is not fully developed, but submissions are successfully saved in the database   
 - **Admin panel** for managing website content
 
 ## Technologies & Libraries
