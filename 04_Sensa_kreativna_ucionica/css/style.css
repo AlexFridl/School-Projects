@@ -221,7 +221,7 @@ a img {
         padding-top:15px;
 }
 .body div {
-	margin:20px 20px 0 21px;
+	/* margin:20px 20px 0 21px; */
 	background:#fff;
 	-moz-box-shadow: 0 0 5px 3px #d3d3d3;
 	-webkit-box-shadow: 0 0 5px 3px#d3d3d3;
@@ -252,8 +252,8 @@ h2{
 	font-size:16px;
 	line-height:24px;
 	color:#808080;
-	padding:0 0 0 22px;
-	margin: 23px 0 30px;
+	/* padding:0 0 0 22px;
+	margin: 23px 0 30px; */
 }
 .body div p a {
 	color:#808080;
@@ -265,7 +265,7 @@ h2{
 	background:none;
 	box-shadow:none;
 	margin-left:5px;
-        margin-bottom: 5px;
+	/* margin-bottom: 5px; */
 }
 .body div div h3 {
 	background:url(../images/border.jpg) repeat-x right center;
@@ -493,7 +493,7 @@ h2{
 	padding: 0 11px 0 0;
 }
 .body .services ul li div {
-	margin:35px 0 0 29px;
+	margin:35px 0 0 9px;
 	width:251px;
 	min-height:290px;
 	height:auto;

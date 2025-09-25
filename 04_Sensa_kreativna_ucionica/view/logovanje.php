@@ -8,7 +8,7 @@
             $lozinka = trim($_POST['tbLozinka']);
 
             $reKorIme = "/^[\w]{4,15}$/";
-            $reLozinka = "/^[\S]{4,10}$/";
+            $reLozinka = "/^\S{4,10}$/";
             $errors = [];
 
             //korisicko ime
@@ -37,8 +37,7 @@
                 $_SESSION['obavestenje'] = $errors;
             endif;
 
-            //$podaci = "";
-           if(empty($errors)):
+            if(empty($errors)):
                 $lozinka = md5($lozinka);
                 $upit = "SELECT * FROM korisnik k INNER JOIN uloga u ON k.uloga_id = u.id WHERE korisnicko_ime = :korIme AND lozinka = :lozinka";
 

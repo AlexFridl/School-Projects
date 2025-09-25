@@ -1,17 +1,16 @@
 <div class="logovanje">
     <?php
     if (isset($_POST['btnPotvrdi'])) {
-        //echo "Pozdrav";
         $ime = trim($_POST['tbImeR']);
         $prezime = trim($_POST['tbPrezimeR']);
         $korIme = trim($_POST['tbKorImeR']);
         $email = trim($_POST['tbEmailR']);
-        $lozinka = md5(trim($_POST['lozinkaReg']));
+        $lozinka = trim($_POST['lozinkaReg']);
 
         $reIme = "/^[A-ZŽĆČĐŠ][a-zžćčđš]{2,15}$/";
         $rePrezime = "/^[A-ZŽĆČĐŠ][a-zžćčđš]{2,20}$/";
         $reKorIme = "/^\w{4,15}$/";
-        $reLozinka = "/^[\S]{4,10}$/";
+        $reLozinka = "/^\S{4,10}$/";
         $errors = [];
 
         //ime
@@ -68,7 +67,7 @@
 
         //lozinka
         if(!empty($lozinka)):
-            if(!preg_match($reLozinka, $lozinka)):
+            if(!preg_match($reLozinka, trim($lozinka))):
                 $errors[] = "Polje za lozinku mora sadrzati ukupno 4 do 10 karaktera!";
                 $_SESSION['obavestenje'] = "";
                 $_SESSION['obavestenje'] = $errors;
@@ -79,20 +78,8 @@
             $_SESSION['obavestenje'] = $errors;
         endif;
 
-        /*$podaci = "";
-        if (!empty($errors)) {
-            $podaci .= "<ol>";
-            foreach ($errors as $error) {
-                echo "<li> $error </li>";
-            }
-            $podaci .= "</ol>";
-        }*/
-        //else {
+        //errors
         if(empty($errors)):
-            /*foreach ($errors as $i) {
-                echo $i;
-            }
-        else:*/
             $lozinka = md5($_POST['lozinkaReg']);
             $uloga_id = 2;
             $upit = "INSERT INTO korisnik VALUES('', :ime_korisnik, :prezime_korisnik, :korisnicko_ime, :email, :lozinka, :uloga_id)";
@@ -120,8 +107,7 @@
             } catch (PDOException $e) {
                 echo $e->getMessage();
             }
-            endif;
-        //}
+        endif;
     }
     ?>
         <!--REGISTRACIJA -->
@@ -163,14 +149,15 @@
                     </tr>
                 </table>
             </form></br>
-            <?php if(isset($_SESSION['obavestenje'])){
-        foreach ($_SESSION['obavestenje'] as $o):
-            echo $o."</br>";
-        endforeach;
-    }
-    unset($_SESSION['obavestenje']);
+            <?php 
+                if(isset($_SESSION['obavestenje'])){
+                    foreach ($_SESSION['obavestenje'] as $o):
+                        echo $o."</br>";
+                    endforeach;
+                }
+                unset($_SESSION['obavestenje']);
 
-    ?>
+            ?>
             <div class="ispis">
 
                 <!--REGISTRACIJA PHP-->
