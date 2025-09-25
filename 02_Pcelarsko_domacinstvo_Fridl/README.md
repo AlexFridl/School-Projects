@@ -3,6 +3,8 @@
 This project is a multi-page website demonstrating a variety of frontend and backend techniques using HTML, CSS, JavaScript, jQuery, AJAX, XML, and XSLT.  
 It was developed as part of coursework to practice different aspects of web programming.
 
+**Note:** No database is used; all content is loaded from XML files.
+
 ---
 
 ## Features
