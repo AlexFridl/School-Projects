@@ -1,11 +1,13 @@
 # Porodično domaćinstvo Fridl
 
-This project demonstrates a variety of frontend and backend techniques using HTML, CSS, JavaScript, jQuery, AJAX, XML, and XSLT.  
+This project is a multi-page website demonstrating a variety of frontend and backend techniques using HTML, CSS, JavaScript, jQuery, AJAX, XML, and XSLT.  
 It was developed as part of coursework to practice different aspects of web programming.
 
 ---
 
 ## Features
+
+- **Multi-page website** structure with navigation between pages.
 
 - **jQuery Slider**  
   A responsive slider implemented with jQuery on every page.
