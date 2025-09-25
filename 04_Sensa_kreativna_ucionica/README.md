@@ -1,4 +1,4 @@
-# Project: [Sensa kreativna ucionica]
+Sensa kreativna ucionica
 
 ## Description
 This project is a multi-page website developed using **HTML, CSS, JavaScript, AJAX, and PHP**.  
