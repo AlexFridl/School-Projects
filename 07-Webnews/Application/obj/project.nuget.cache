@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kd/hQU+3XKkp6xzDe/3/IFyf7OQ4NdoZ7c0So2CbWgs0UMmMosrplCRzdtejPQKLfj/50QzK9NEHvbVBzz2I/g==",
+  "dgSpecHash": "EYoTXfJWE/XP8gJQczldia7u2/ciONPb9jSbu80+zW4GatnBV7ebdCv+bC5eLhZc4WYvIil9OGVAHmhlvenEHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.7\\microsoft.aspnetcore.http.features.3.1.7.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.7\\microsoft.extensions.primitives.3.1.7.nupkg.sha512",

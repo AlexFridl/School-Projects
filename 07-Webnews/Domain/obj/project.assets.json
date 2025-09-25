@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

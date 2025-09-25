@@ -122,11 +122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Aleksandra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -146,8 +146,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Domain\\Domain.csproj"
+            "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Domain\\Domain.csproj"
             }
           }
         }

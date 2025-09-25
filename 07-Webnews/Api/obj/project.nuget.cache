@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Lj6Uf/WXGxkgxowZGgR+xs/R4y8/vHopb7wfwHtSYBoiymzf6ywBb628vLv0LkH/VLusgBzwTDnHwoFPycgLg==",
+  "dgSpecHash": "FfwH9bLypEKwEJUmjqBuWxaHxGVdVHIx+d4GaEeb9WyMbQSiI6eQq8sBYHFVNIwWH21tN+iTgX9ZjvT06WbSog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\Study Projects\\School-ASP\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\Aleksandra\\Documents\\GitHub\\AleksandraF\\School-Projects\\07-Webnews\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aleksandra\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Aleksandra\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.0.1\\automapper.extensions.microsoft.dependencyinjection.8.0.1.nupkg.sha512",
