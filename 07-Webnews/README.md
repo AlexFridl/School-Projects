@@ -1,4 +1,4 @@
-# aleksandra_fridl_311_14_ASP
+# Webnews
 
 ## Description
 This project is a Web API application developed in **ASP.NET Core** using **Entity Framework** following **SOLID principles** and implementing **ORM**.  
