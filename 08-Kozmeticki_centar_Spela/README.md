@@ -31,10 +31,23 @@ This is a web application developed for the beauty salon "Špela Beauty". The pr
 
 # Technologies Used
 
-Frontend: HTML5, CSS, Bootstrap v4.3.1, JavaScript, jQuery
-Backend: PHP (Laravel Framework)
-Database: MySQL
-Libraries: bootstrap.min.css, font-awesome.min.css, jquery-1.12.1.min.js
+**Frontend:** 
+- HTML5
+- CSS
+- Bootstrap v4.3.1
+- JavaScript
+- jQuery
+
+**Backend:**
+- PHP (Laravel Framework)
+
+**Database:**
+- MySQL
+ 
+**Libraries:**
+ - bootstrap.min.css
+ - font-awesome.min.css
+ - jquery-1.12.1.min.js
 
 ---
 
