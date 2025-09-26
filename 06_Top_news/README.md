@@ -27,16 +27,15 @@ This project is a dynamic website built using the Laravel framework with MVC arc
 
 - **Dynamic content** - loaded from the database.
 
+- **Pagination** - implemented for news, gallery, and admin panel.
+
+- **Form validation** - implemented using regular expressions.
+
 **User roles:**
 
 - **Guest** – can view news, search articles, register, log in, and send messages via the contact form.  
 - **User** – can post comments, browse news by categories, view the gallery, and search content.  
 - **Admin** – can manage site content (add, edit, delete), moderate comments and messages, manage categories, and use date filtering and search via AJAX.  
-
-
-- **Pagination** - implemented for news, gallery, and admin panel.
-
-- **Form validation** - implemented using regular expressions.
 
 ---
 
