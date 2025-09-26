@@ -7,19 +7,23 @@ Each folder is a separate project.
 ## Projects
 **[01_Sokci_i_njihova_nosnja]**
 (https://github.com/AlexFridl/School-Projects/tree/main/01_Sokci_i_njihova_nosnja)  
+
 This was my first project, created to practice the fundamentals of web design. It demonstrates how to structure a webpage using <div> containers, apply essential HTML tags, and use CSS to style and organize content on the page. Built with HTML and CSS.  
 
 **[02_Pcelarsko_domacinstvo_Fridl]**
 (https://github.com/AlexFridl/School-Projects/tree/main/02_Pcelarsko_domacinstvo_Fridl)  
+
 A school project simulating a beekeeping household website, including an image gallery loaded from XML with AJAX and jQuery, dropdown menus, a login form, survey with cookies, and RSS feed styling with XSLT.
 
 **[03_Quatro++]**
 (https://github.com/AlexFridl/School-Projects/tree/main/03_Quatro%2B%2B)  
+
 A responsive website for a hair salon, designed for both desktop and mobile devices using media queries.
 
 **[04_Sensa_kreativna_ucionica]**
 (https://github.com/AlexFridl/School-Projects/tree/main/04_Sensa_kreativna_ucionica) 
-Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP
+
+Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP.
 
 *Features:*
 - Gallery (lightbox)
@@ -34,6 +38,7 @@ Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP
 
 **[05_Spa_kozmeticki_salon]**
 (https://github.com/AlexFridl/School-Projects/tree/main/05_Spa_kozmeticki_salon)  
+
 This is a school project built with HTML, CSS, JavaScript, AJAX, jQuery, and PHP.
 It features user login and registration, surveys, an image gallery, pagination, and an admin panel for managing site content.
 
@@ -53,6 +58,7 @@ It features user login and registration, surveys, an image gallery, pagination, 
 (https://github.com/AlexFridl/School-Projects/tree/main/06_Top_news)
 
 Dynamic web application built with Laravel (MVC, OOP PHP) and MySQL, developed in PhpStorm.
+
 *Features:*
 - Gest: view news, search articles, register, log in, send messages via the contact form
 - Users: view news, search articles, post comments
