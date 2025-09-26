@@ -7,6 +7,7 @@ Each folder is a separate project.
 ## Projects
 **[01_Sokci_i_njihova_nosnja]**
 (https://github.com/AlexFridl/School-Projects/tree/main/01_Sokci_i_njihova_nosnja)  
+
 This was my first project, created to practice the fundamentals of web design. 
 It demonstrates how to structure a webpage using "div" containers, apply essential HTML tags, and use CSS to style and organize content on the page. Built with HTML and CSS.  
 
