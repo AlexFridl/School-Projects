@@ -42,7 +42,7 @@ This is a web application developed for the beauty salon "Špela Beauty". The pr
 - PHP (Laravel Framework)
 
 **Database:**
-- MySQL
+- MySQL (kozmetickicentarspela.sql) - included in project root folder
  
 **Libraries:**
  - bootstrap.min.css
@@ -67,7 +67,7 @@ Appointment scheduling is fully integrated for both users and staff.
 
 # How to Run the Project
 
-Copy the project folder to your web server directory (e.g., htdocs in XAMPP).
-Start Apache and MySQL.
-Import the included MySQL database into your server.
-Open the project in your browser.
+1. Copy the project folder to your web server directory (htdocs in XAMPP).
+2. Start Apache and MySQL.
+3. Import the included MySQL database into your server.
+4. Open the project in your browser.
