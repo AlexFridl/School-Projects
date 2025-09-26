@@ -19,8 +19,8 @@ A responsive website for a hair salon, designed for both desktop and mobile devi
 
 **[04_Sensa_kreativna_ucionica]**
 (https://github.com/AlexFridl/School-Projects/tree/main/04_Sensa_kreativna_ucionica) 
+Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP
 
-Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP.
 *Features:*
 - Gallery (lightbox)
 - Login system & user roles (admin, user, guest)
@@ -34,7 +34,6 @@ Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP.
 
 **[05_Spa_kozmeticki_salon]**
 (https://github.com/AlexFridl/School-Projects/tree/main/05_Spa_kozmeticki_salon)  
-
 This is a school project built with HTML, CSS, JavaScript, AJAX, jQuery, and PHP.
 It features user login and registration, surveys, an image gallery, pagination, and an admin panel for managing site content.
 
