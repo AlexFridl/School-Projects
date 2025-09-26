@@ -33,8 +33,11 @@ Multi-page website developed with HTML, CSS, JavaScript, AJAX, PHP.
 - Survey functionality (PHP + AJAX)
 - Contact form (emails saved in database)
 - Pagination and form validation
+  
 *Technologies:* HTML, CSS, JavaScript, AJAX, jQuery, PHP, PHPMailer
+
 *Database:* Included (database.sql in project root).
+
 *Run:* Copy folder to XAMPP htdocs, start Apache/MySQL, import DB, open in browser. 
 
 **[05_Spa_kozmeticki_salon]**
