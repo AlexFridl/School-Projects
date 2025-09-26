@@ -7,23 +7,23 @@ This is a web application developed for the beauty salon "Špela Beauty". The pr
 # Features
 
 **User roles:**
-- Gest
+- **Gest**
     View available treatments with descriptions
     Find salon location via Google Maps
     Access social media pages
     Browse and search blog posts
     Schedule appointments in available time slots  
 
-- Blogger:
+- **Blogger**
     Add, edit, deactivate, or delete blog posts
     Search blog posts by date
 
-- Employee:
+- **Employee**
     Manage scheduled and canceled appointments
     Edit or cancel appointments
     Search appointments by date
 
-- Administrator:
+- **Administrator**
     Full content management: treatment types, individual treatments, users, slider images, blogs, scheduled and canceled appointments, salon information
     Search content by date
 
